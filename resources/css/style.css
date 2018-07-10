@@ -2,15 +2,15 @@
   text-align: center;
 }
 
-#topline{
-  background-image: url("resources\images\flatiron.png");
-}
-
 h1{
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+
+.topline{
+  background-image: url("./resources/images/flatiron.png");
 }
 
 nav{
