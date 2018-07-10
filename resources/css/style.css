@@ -1,5 +1,6 @@
 *{
   text-align: center;
+  color: black;
 }
 
 h1{
@@ -11,4 +12,8 @@ h1{
 nav{
   font-family: Helvetica;
   font-size: 18px;
+}
+
+ul{
+  list-style-type: none;
 }
