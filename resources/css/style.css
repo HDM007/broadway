@@ -1,18 +1,27 @@
 *{
   text-align: center;
   font-weight: bold;
+  font-family: Helvetica;
 }
 
 h1{
-  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
 nav{
-  font-family: Helvetica;
   font-size: 18px;
+}
+
+p {
+  font-size; 14px;
+  font-weight: normal;
 }
 
 #topline{
@@ -22,15 +31,19 @@ nav{
   background-repeat: no-repeat;
 }
 
+#breaker{
+  font-size: 23px;
+  color: white;
+  background-image: url("../images/flatiron.png");
+}
+
 .nav{
-  font-family: Helvetica;
   font-size: 18px;
   color: white;
   font-weight: bold;
 }
 
 #footnav{
-  font-family: helvetica;
   color: white;
   font-size: 11px;
   background-color: dimgray;
@@ -38,11 +51,15 @@ nav{
 }
 
 #footnav a{
-  font-family: helvetica;
   color: white;
   font-size: 11px;
 }
 
 #footnav *{
   text-align: left;
+}
+
+.single {
+  font-size: 23px;
+  font-weight: bold;
 }
