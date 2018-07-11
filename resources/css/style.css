@@ -49,8 +49,10 @@ p {
   text-align: left;
 }
 
+
 #footnav a{
   color: white;
+  font-size: 18px;
 }
 
 #footnav *{
